@@ -1,2 +1,8 @@
 //Respuesta, pregunta 4: 
-//los tres se relacionan porque implican usar la información con responsabilidad y colaborar con otros. si se maneja bien la información, es posible participar mejor como ciudadanos; y con herramientas como Git, aprendemos a trabajar en equipo y de forma ordenada y transparente.
+//los tres se relacionan porque implican
+usar la información con responsabilidad y
+colaborar con otros. si se maneja bien la
+información, es posible participar mejor
+como ciudadanos; y con herramientas como
+Git, aprendemos a trabajar en equipo y de
+forma ordenada y transparente.
