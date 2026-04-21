@@ -1,0 +1,7 @@
+//Respuesta, pregunta 5:
+1. buscar la información 
+2. revisar la fuente 
+3. confirmar noticia
+4. verificar si es actual
+5. detectar si es falsa
+6. compartir responsablemente 
